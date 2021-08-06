@@ -35,17 +35,17 @@
       "purpose": "UCP"
     },
     {
-      "src": "https://idinitir.sirv.com/UCP/assets/ucpfont/latin-2.woff2",
+      "src": "https://cdn.jsdelivr.net/gh/cargoportal/lmsweb/latin-2.woff2",
       "type": "font/woff2",
       "purpose": "UCP"
     },
     {
-      "src": "https://idinitir.sirv.com/UCP/assets/ucpfont/MaterialIcons-Regular.woff2",
+      "src": "https://cdn.jsdelivr.net/gh/cargoportal/lmsweb/MaterialIcons-Regular.woff2",
       "type": "font/woff2",
       "purpose": "UCP"
     },
     {
-      "src": "https://idinitir.sirv.com/UCP/assets/ucpfont/latin-3.woff2",
+      "src": "https://cdn.jsdelivr.net/gh/cargoportal/lmsweb/latin-3.woff2",
       "type": "font/woff2",
       "purpose": "Main CSS"
     },

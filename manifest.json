@@ -5,13 +5,13 @@
   "icons": [
     {
       "src": "https://idinitir.sirv.com/UCP/assets/images/home.png",
-      "sizes": "1440x450",
+      "sizes": "1440px x 450px",
       "type": "image/png"
     },
 	  
     {
       "src": "https://cdn.jsdelivr.net/gh/cargoportal/lmsweb/home.loader.gif",
-      "sizes": "150x140",
+      "sizes": "150px x 140px",
       "type": "image/gif",
        "purpose": "UCP"
     },

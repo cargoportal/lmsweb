@@ -8,47 +8,56 @@
       "sizes": "1440x450",
       "type": "image/png"
     },
+	  
     {
       "src": "https://cdn.jsdelivr.net/gh/cargoportal/lmsweb/home.loader.gif",
       "sizes": "150x140",
       "type": "image/gif"
     },
+	  
     {
       "src": "https://idinitir.sirv.com/UCP/assets/images/home.UCP.svg",
       "sizes": "85px x 85px",
       "type": "image/svg"
 
     },
+	  
     {
       "src": "https://cdn.jsdelivr.net/gh/cargoportal/lmsweb/SignOn.css",
       "type": "text/css",
       "purpose": "UCP"
     },
+	  
     {
       "src": "https://cdn.jsdelivr.net/gh/cargoportal/lmsweb/loader.js",
       "type": "application/javascript",
       "purpose": "UCP"
     },
+	  
     {
       "src": "https://cdn.jsdelivr.net/gh/cargoportal/lmsweb/index.js",
       "type": "application/javascript",
       "purpose": "UCP"
     },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/cargoportal/lmsweb/latin-2.woff2",
-      "type": "font/woff2",
-      "purpose": "UCP"
-    },
+	  
     {
       "src": "https://cdn.jsdelivr.net/gh/cargoportal/lmsweb/MaterialIcons-Regular.woff2",
       "type": "font/woff2",
       "purpose": "UCP"
     },
+	  
+    {
+      "src": "https://cdn.jsdelivr.net/gh/cargoportal/lmsweb/latin-2.woff2",
+      "type": "font/woff2",
+      "purpose": "UCP"
+    },
+ 
     {
       "src": "https://cdn.jsdelivr.net/gh/cargoportal/lmsweb/latin-3.woff2",
       "type": "font/woff2",
       "purpose": "Main CSS"
     },
+	  
     {
       "src": "https://www.cpsdev.cargoportalservices.com/lmsweb/app/SignOn/signon.jsp",
       "sizes": "682x682",

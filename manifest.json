@@ -12,14 +12,15 @@
     {
       "src": "https://cdn.jsdelivr.net/gh/cargoportal/lmsweb/home.loader.gif",
       "sizes": "150x140",
-      "type": "image/gif"
+      "type": "image/gif",
+       "purpose": "UCP"
     },
 	  
     {
       "src": "https://idinitir.sirv.com/UCP/assets/images/home.UCP.svg",
       "sizes": "85px x 85px",
-      "type": "image/svg"
-
+      "type": "image/svg",
+      "purpose": "UCP"
     },
 	  
     {

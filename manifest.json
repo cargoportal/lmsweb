@@ -1,0 +1,38 @@
+{
+"name": "UnisysCargoPortal",
+"short_name": "CPS",
+"description": "CPS Commons PWA",
+"theme_color": "#ffffff",
+"background_color": "#ffffff",
+"display": "standalone",
+"orientation": "landscape",
+"start_url":"https://www.cpsdev.cargoportalservices.com"
+"icons": 
+[
+	{
+	"src": "https://idinitir.sirv.com/UCP/assets/images/UCP.96x96.jpg",
+	"sizes": "96px96",
+	"type": "Image/jpg",
+	},
+	{
+	"src": "https://idinitir.sirv.com/UCP/assets/images/UCP.144x144.jpg",
+	"sizes": "144x144",
+	"type": "Image/jpg",
+	},
+	{
+	"src": "https://idinitir.sirv.com/UCP/assets/images/UCP.192x192.jpg",
+	"sizes": "192x192",
+	"type": "Image/jpg",
+	},
+	{
+	"src": "https://idinitir.sirv.com/UCP/assets/images/UCP.512x512.jpg",
+	"sizes": "512x512",
+	"type": "Image/jpg"
+	"purpose": "any maskable"
+	},
+],
+
+"gcm_sender_id": "365487944636",
+"gcm_user_visible_only": "true",
+"screenshots": []
+}

@@ -10,22 +10,22 @@
 "icons": 
 [
 	{
-	"src": "https://idinitir.sirv.com/UCP/assets/images/UCP.96x96.jpg",
+	"src": "https://idinitir.sirv.com/lmsweb/assets/images/UCP.96x96.jpg",
 	"sizes": "96px96",
 	"type": "Image/jpg",
 	},
 	{
-	"src": "https://idinitir.sirv.com/UCP/assets/images/UCP.144x144.jpg",
+	"src": "https://idinitir.sirv.com/lmsweb/assets/images/UCP.144x144.jpg",
 	"sizes": "144x144",
 	"type": "Image/jpg",
 	},
 	{
-	"src": "https://idinitir.sirv.com/UCP/assets/images/UCP.192x192.jpg",
+	"src": "https://idinitir.sirv.com/lmsweb/assets/images/UCP.192x192.jpg",
 	"sizes": "192x192",
 	"type": "Image/jpg",
 	},
 	{
-	"src": "https://idinitir.sirv.com/UCP/assets/images/UCP.512x512.jpg",
+	"src": "https://idinitir.sirv.com/lmsweb/assets/images/UCP.512x512.jpg",
 	"sizes": "512x512",
 	"type": "Image/jpg"
 	"purpose": "any maskable"

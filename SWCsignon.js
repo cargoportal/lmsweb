@@ -325,7 +325,7 @@ function populateUserForm(index,objBtn)
 	getServerInfoByAJAX(strURL, true, true);
 }
 
-var httpRequest;
+var httpRequest;
 function getServerInfoByAJAX(strURL, blnTextResponse, blnAsync)
 {
 	UserNoyify_CreateXmlHttp();
